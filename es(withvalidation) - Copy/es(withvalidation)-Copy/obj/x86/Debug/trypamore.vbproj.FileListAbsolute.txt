@@ -1,0 +1,32 @@
+C:\Users\Weng\AppData\Local\Temporary Projects\trypamore\bin\Debug\trypamore.exe
+C:\Users\Weng\AppData\Local\Temporary Projects\trypamore\bin\Debug\trypamore.pdb
+C:\Users\Weng\AppData\Local\Temporary Projects\trypamore\bin\Debug\trypamore.xml
+C:\Users\Weng\AppData\Local\Temporary Projects\trypamore\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Weng\AppData\Local\Temporary Projects\trypamore\obj\x86\Debug\trypamore.LoginForm1.resources
+C:\Users\Weng\AppData\Local\Temporary Projects\trypamore\obj\x86\Debug\trypamore.Resources.resources
+C:\Users\Weng\AppData\Local\Temporary Projects\trypamore\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Weng\AppData\Local\Temporary Projects\trypamore\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Weng\AppData\Local\Temporary Projects\trypamore\obj\x86\Debug\trypamore.exe
+C:\Users\Weng\AppData\Local\Temporary Projects\trypamore\obj\x86\Debug\trypamore.xml
+C:\Users\Weng\AppData\Local\Temporary Projects\trypamore\obj\x86\Debug\trypamore.pdb
+C:\Users\Weng\Documents\Visual Studio 2010\Projects\trypamore\trypamore\obj\x86\Debug\trypamore.exe
+C:\Users\Weng\Documents\Visual Studio 2010\Projects\trypamore\trypamore\obj\x86\Debug\trypamore.xml
+C:\Users\Weng\Documents\Visual Studio 2010\Projects\trypamore\trypamore\obj\x86\Debug\trypamore.pdb
+C:\Users\Weng\Documents\Visual Studio 2010\Projects\trypamore\trypamore\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Weng\Documents\Visual Studio 2010\Projects\trypamore\trypamore\obj\x86\Debug\trypamore.Resources.resources
+C:\Users\Weng\Documents\Visual Studio 2010\Projects\trypamore\trypamore\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Weng\Documents\Visual Studio 2010\Projects\trypamore\trypamore\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Weng\Documents\Visual Studio 2010\Projects\trypamore\trypamore\bin\Debug\trypamore.exe
+C:\Users\Weng\Documents\Visual Studio 2010\Projects\trypamore\trypamore\bin\Debug\trypamore.pdb
+C:\Users\Weng\Documents\Visual Studio 2010\Projects\trypamore\trypamore\bin\Debug\trypamore.xml
+C:\Users\Weng\Documents\Visual Studio 2010\Projects\trypamore\trypamore\obj\x86\Debug\trypamore.Register.resources
+C:\Users\Weng\Documents\Visual Studio 2010\Projects\trypamore\trypamore\obj\x86\Debug\trypamore.List.resources
+C:\Users\Weng\Documents\Visual Studio 2010\Projects\trypamore\trypamore\obj\x86\Debug\trypamore.listbysec.resources
+C:\Users\Weng\Documents\Visual Studio 2010\Projects\trypamore\trypamore\obj\x86\Debug\trypamore.Home.resources
+C:\Users\Weng\Documents\Visual Studio 2010\Projects\trypamore\trypamore\obj\x86\Debug\trypamore.admin.resources
+C:\Users\Weng\Desktop\Enrollment System\trypamore(withvalidation) - Copy\trypamore\obj\x86\Debug\trypamore.exe
+C:\Users\Weng\Desktop\Enrollment System\trypamore(withvalidation) - Copy\trypamore\obj\x86\Debug\trypamore.xml
+C:\Users\Weng\Desktop\Enrollment System\trypamore(withvalidation) - Copy\trypamore\obj\x86\Debug\trypamore.pdb
+C:\Users\Weng\Documents\Visual Studio 2010\Projects\Enrollment System_backUp\trypamore(withvalidation) - Copy\trypamore\obj\x86\Debug\trypamore.exe
+C:\Users\Weng\Documents\Visual Studio 2010\Projects\Enrollment System_backUp\trypamore(withvalidation) - Copy\trypamore\obj\x86\Debug\trypamore.xml
+C:\Users\Weng\Documents\Visual Studio 2010\Projects\Enrollment System_backUp\trypamore(withvalidation) - Copy\trypamore\obj\x86\Debug\trypamore.pdb
